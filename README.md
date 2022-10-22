@@ -13,49 +13,22 @@ Studient at the school 42
 </p>
 
 ## Parcour de 42
-<div style="display: flex; ">
-	<p style="padding-right: 60px">List des Projet:</p>                 <p>Exam:</p>
-</div>
-<div style = "display: flex; ">
-	<img style = "padding-right: 96px"src=https://img.shields.io/static/v1?&logo=appveyorlabel=Libft&message=115&color=success&style=?style=for-the-badge&logo=appveyor/>
-	<img src=https://img.shields.io/static/v1?label=Exam02&message=100&color=success&style=?style=for-the-badge&logo=#00B3E0/>
-</div>
-<div style = "display: flex; ">
-	<img style = "padding-right: 48px"src=https://img.shields.io/static/v1?label=Get_next_line&message=112&color=success&style=?style=for-the-badge&logo=appveyor/>    
-	<img src=https://img.shields.io/static/v1?label=Exam03&message=100&color=success&style=?style=for-the-badge&logo=appveyor/>
-</div>
-<div style = "display: flex; ">
-	<img style = "padding-right: 78px"src=https://img.shields.io/static/v1?label=Ft_printf&message=100&color=success&style=?style=for-the-badge&logo=appveyor/>    
-	<img src=https://img.shields.io/static/v1?label=Exam04&message=100&color=success&style=?style=for-the-badge&logo=appveyor/>
-</div>
-<div style = "display: flex; ">
-	<img style = "padding-right: 72px"src=https://img.shields.io/static/v1?label=Push_swap&message=85&color=success&style=?style=for-the-badge&logo=appveyor/>    
-	<img src=https://img.shields.io/static/v1?label=Exam05&message=0&color=success&style=?style=for-the-badge&logo=appveyor/>
-</div>
-<div style = "display: flex; ">
-	<img style = "padding-right: 96px"src=https://img.shields.io/static/v1?label=Pipex&message=116&color=success&style=?style=for-the-badge&logo=appveyor/>    
-	<img src=https://img.shields.io/static/v1?label=Exam06&message=0&color=success&style=?style=for-the-badge&/>
-</div>
-<div style = "display: flex; ">
-	<img style = "padding-right: 96px"src=https://img.shields.io/static/v1?label=Fdf&message=118&color=success&style=?style=for-the-badge&logo=appveyor/> 
-</div>
-<div style = "display: flex; ">
-	<img style = "padding-right: 96px"src=https://img.shields.io/static/v1?label=Philosophers&message=100&color=success&style=?style=for-the-badge&logo=appveyor/> 
-</div>
-<div style = "display: flex; ">
-	<img style = "padding-right: 96px"src=https://img.shields.io/static/v1?label=Minishell&message=125&color=success&style=?style=for-the-badge&logo=appveyor/> 
-</div>
-<div style = "display: flex; ">
-	<img style = "padding-right: 96px"src=https://img.shields.io/static/v1?label=Cub3D&message=120&color=success&style=?style=for-the-badge&logo=appveyor/> 
-</div>
-<div style = "display: flex; ">
-	<img style = "padding-right: 96px"src=https://img.shields.io/static/v1?label=CPP&message=100&color=success&style=?style=for-the-badge&logo=appveyor/> 
-</div>
-<div style = "display: flex; ">
-	<img style = "padding-right: 96px"src=https://img.shields.io/static/v1?label=Container&message=100&color=success&style=?style=for-the-badge&logo=appveyor/> 
-</div>
-<div style = "display: flex; ">
-	<img style = "padding-right: 96px"src=https://img.shields.io/static/v1?label=Ft_irc&message=0&color=success&style=?style=for-the-badge&logo=appveyor/> 
-</div>
+| Project | Examen |
+| :---         |     :---:      |
+| ![](https://img.shields.io/static/v1?label=libft&message=115&color=success&style=?style=for-the-badge&logo=appveyor)   | ![](https://img.shields.io/static/v1?label=Exam02&message=100&color=success&style=?style=for-the-badge&logo=appveyor)     |
+| ![](https://img.shields.io/static/v1?label=Get_next_line&message=112&color=success&style=?style=for-the-badge&logo=appveyor)   | ![](https://img.shields.io/static/v1?label=Exam03&message=100&color=success&style=?style=for-the-badge&logo=appveyor)     |
+| ![](https://img.shields.io/static/v1?label=Ft_printf&message=100&color=success&style=?style=for-the-badge&logo=appveyor)   | ![](https://img.shields.io/static/v1?label=Exam04&message=100&color=success&style=?style=for-the-badge&logo=appveyor)     |
+| ![](https://img.shields.io/static/v1?label=BorntoBeRoot&message=100&color=success&style=?style=for-the-badge&logo=appveyor)   | ![](https://img.shields.io/static/v1?label=Exam05&message=0&color=fail&style=?style=for-the-badge&logo=appveyor)     |
+| ![](https://img.shields.io/static/v1?label=Push_swap&message=85&color=success&style=?style=for-the-badge&logo=appveyor)   | ![](https://img.shields.io/static/v1?label=Exam06&message=0&color=success&style=?style=for-the-badge&logo=appveyor)     |
+| ![](https://img.shields.io/static/v1?label=Pipex&message=85&color=success&style=?style=for-the-badge&logo=appveyor)   |  |
+| ![](https://img.shields.io/static/v1?label=Pipex&message=85&color=success&style=?style=for-the-badge&logo=appveyor)   |  |
+| ![](https://img.shields.io/static/v1?label=Fzf&message=118&color=success&style=?style=for-the-badge&logo=appveyor)   |  |
+| ![](https://img.shields.io/static/v1?label=Philosophers&message=100&color=success&style=?style=for-the-badge&logo=appveyor)   |  |
+| ![](https://img.shields.io/static/v1?label=Minishell&message=125&color=success&style=?style=for-the-badge&logo=appveyor)   |  |
+| ![](https://img.shields.io/static/v1?label=Cub3d&message=120&color=success&style=?style=for-the-badge&logo=appveyor)   |  |
+| ![](https://img.shields.io/static/v1?label=Cpp&message=100&color=success&style=?style=for-the-badge&logo=appveyor)   |  |
+| ![](https://img.shields.io/static/v1?label=Container&message=100&color=success&style=?style=for-the-badge&logo=appveyor)   |  |
+| ![](https://img.shields.io/static/v1?labelInception&message=125&color=success&style=?style=for-the-badge&logo=appveyor)   |  |
+| ![](https://img.shields.io/static/v1?label=ContainerFt_irc&message=0&color=success&style=?style=for-the-badge&logo=appveyor)   |  |
 
 ![](https://komarev.com/ghpvc/?username=waxdred)
