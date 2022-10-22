@@ -17,7 +17,7 @@ Studient at the school 42
 	<p style="padding-right: 60px">List des Projet:</p>                 <p>Exam:</p>
 </div>
 <div style = "display: flex; ">
-	<img style = "padding-right: 96px"src=https://img.shields.io/static/v1?&logo=appveyorlabel=Libft&message=115&color=success&style=?style=for-the-badge&logo=appveyor/><p>-------</p>
+	<img style = "padding-right: 96px"src=https://img.shields.io/static/v1?&logo=appveyorlabel=Libft&message=115&color=success&style=?style=for-the-badge&logo=appveyor/>
 	<img src=https://img.shields.io/static/v1?label=Exam02&message=100&color=success&style=?style=for-the-badge&logo=#00B3E0/>
 </div>
 <div style = "display: flex; ">
