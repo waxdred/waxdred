@@ -1,7 +1,6 @@
 
 
 ### Hi there 👋 I'm Jonathan
----
 <p align="center">
 <img align="center" src="https://badge42.vercel.app/api/v2/cl3lguavc004009mdn56k7atu/stats?cursusId=21&coalitionId=49" alt="" height="40%" width="50%">
 
@@ -14,24 +13,49 @@ Studient at the school 42
 </p>
 
 ## Parcour de 42
+<div style="display: flex; ">
+	<p style="padding-right: 60px">List des Projet:</p>                 <p>Exam:</p>
+</div>
+<div style = "display: flex; ">
+	<img style = "padding-right: 96px"src=https://img.shields.io/static/v1?&logo=appveyorlabel=Libft&message=115&color=success&style=?style=for-the-badge&logo=appveyor/>    
+	<img src=https://img.shields.io/static/v1?label=Exam02&message=100&color=success&style=?style=for-the-badge&logo=#00B3E0/>
+</div>
+<div style = "display: flex; ">
+	<img style = "padding-right: 48px"src=https://img.shields.io/static/v1?label=Get_next_line&message=112&color=success&style=?style=for-the-badge&logo=appveyor/>    
+	<img src=https://img.shields.io/static/v1?label=Exam03&message=100&color=success&style=?style=for-the-badge&logo=appveyor/>
+</div>
+<div style = "display: flex; ">
+	<img style = "padding-right: 78px"src=https://img.shields.io/static/v1?label=Ft_printf&message=100&color=success&style=?style=for-the-badge&logo=appveyor/>    
+	<img src=https://img.shields.io/static/v1?label=Exam04&message=100&color=success&style=?style=for-the-badge&logo=appveyor/>
+</div>
+<div style = "display: flex; ">
+	<img style = "padding-right: 72px"src=https://img.shields.io/static/v1?label=Push_swap&message=85&color=success&style=?style=for-the-badge&logo=appveyor/>    
+	<img src=https://img.shields.io/static/v1?label=Exam05&message=0&color=success&style=?style=for-the-badge&logo=appveyor/>
+</div>
+<div style = "display: flex; ">
+	<img style = "padding-right: 96px"src=https://img.shields.io/static/v1?label=Pipex&message=116&color=success&style=?style=for-the-badge&logo=appveyor/>    
+	<img src=https://img.shields.io/static/v1?label=Exam06&message=0&color=success&style=?style=for-the-badge&/>
+</div>
+<div style = "display: flex; ">
+	<img style = "padding-right: 96px"src=https://img.shields.io/static/v1?label=Fdf&message=118&color=success&style=?style=for-the-badge&logo=appveyor/> 
+</div>
+<div style = "display: flex; ">
+	<img style = "padding-right: 96px"src=https://img.shields.io/static/v1?label=Philosophers&message=100&color=success&style=?style=for-the-badge&logo=appveyor/> 
+</div>
+<div style = "display: flex; ">
+	<img style = "padding-right: 96px"src=https://img.shields.io/static/v1?label=Minishell&message=125&color=success&style=?style=for-the-badge&logo=appveyor/> 
+</div>
+<div style = "display: flex; ">
+	<img style = "padding-right: 96px"src=https://img.shields.io/static/v1?label=Cub3D&message=120&color=success&style=?style=for-the-badge&logo=appveyor/> 
+</div>
+<div style = "display: flex; ">
+	<img style = "padding-right: 96px"src=https://img.shields.io/static/v1?label=CPP&message=100&color=success&style=?style=for-the-badge&logo=appveyor/> 
+</div>
+<div style = "display: flex; ">
+	<img style = "padding-right: 96px"src=https://img.shields.io/static/v1?label=Container&message=100&color=success&style=?style=for-the-badge&logo=appveyor/> 
+</div>
+<div style = "display: flex; ">
+	<img style = "padding-right: 96px"src=https://img.shields.io/static/v1?label=Ft_irc&message=0&color=success&style=?style=for-the-badge&logo=appveyor/> 
+</div>
 
-List des Projet:<br />
-- [x] ![](https://img.shields.io/static/v1?label=Libft&message=115&color=success&style=?style=for-the-badge&logo=appveyor)<br />
-- [x] ![](https://img.shields.io/static/v1?label=Get_next_line&message=112&color=success&style=?style=for-the-badge&logo=appveyor)<br />
-- [x] ![](https://img.shields.io/static/v1?label=Ft_printf&message=100&color=success&style=?style=for-the-badge&logo=appveyor)<br />
-- [x] ![](https://img.shields.io/static/v1?label=Push_swap&message=85&color=success&style=?style=for-the-badge&logo=appveyor)<br />
-- [X] ![](https://img.shields.io/static/v1?label=Pipex&message=116&color=success&style=?style=for-the-badge&logo=appveyor)<br />
-- [X] ![](https://img.shields.io/static/v1?label=Fdf&message=118&color=success&style=?style=for-the-badge&logo=appveyor)<br />
-- [X] ![](https://img.shields.io/static/v1?label=Philosophers&message=100&color=success&style=?style=for-the-badge&logo=appveyor)<br />
-- [X] ![](https://img.shields.io/static/v1?label=Minishell&message=125&color=success&style=?style=for-the-badge&logo=appveyor)<br />
-- [X] ![](https://img.shields.io/static/v1?label=Cub3D&message=120&color=success&style=?style=for-the-badge&logo=appveyor)<br />
-- [X] ![](https://img.shields.io/static/v1?label=CPP&message=100&color=success&style=?style=for-the-badge&logo=appveyor)<br />
-- [X] ![](https://img.shields.io/static/v1?label=Netpractice&message=100&color=success&style=?style=for-the-badge&logo=appveyor)<br />
-- [X] ![](https://img.shields.io/static/v1?label=Inception&message=125&color=success&style=?style=for-the-badge&logo=appveyor)<br />
-- [X] ![](https://img.shields.io/static/v1?label=Container&message=100&color=success&style=?style=for-the-badge&logo=appveyor)<br />
-Examem:<br />
-- [x] ![](https://img.shields.io/static/v1?label=Exam02&message=100&color=success&style=?style=for-the-badge&logo=appveyor)<br />
-- [x] ![](https://img.shields.io/static/v1?label=Exam03&message=100&color=success&style=?style=for-the-badge&logo=appveyor)<br />
-- [X] ![](https://img.shields.io/static/v1?label=Exam04&message=100&color=success&style=?style=for-the-badge&logo=appveyor)<br />
-- [ ] ![](https://img.shields.io/static/v1?label=Exam05&message=0&color=success&style=?style=for-the-badge&logo=appveyor)<br />
 ![](https://komarev.com/ghpvc/?username=waxdred)
