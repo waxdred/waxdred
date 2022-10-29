@@ -26,7 +26,6 @@ Studient at the school 42
 | ![](https://img.shields.io/static/v1?label=Minishell&message=125&color=success&style=?style=for-the-badge&logo=appveyor)   |  |
 | ![](https://img.shields.io/static/v1?label=Cub3d&message=120&color=success&style=?style=for-the-badge&logo=appveyor)   |  |
 | ![](https://img.shields.io/static/v1?label=Cpp&message=100&color=success&style=?style=for-the-badge&logo=appveyor)   |  |
-| ![](https://img.shields.io/static/v1?label=Container&message=100&color=success&style=?style=for-the-badge&logo=appveyor)   |  |
 | ![](https://img.shields.io/static/v1?labelInception&message=125&color=success&style=?style=for-the-badge&logo=appveyor)   |  |
 | ![](https://img.shields.io/static/v1?label=Container&message=100&color=success&style=?style=for-the-badge&logo=appveyor)   |  |
 | ![](https://img.shields.io/static/v1?label=Ft_irc&message=125&color=success&style=?style=for-the-badge&logo=appveyor)   |  |
