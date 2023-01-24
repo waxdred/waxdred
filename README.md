@@ -30,6 +30,7 @@ I'm always looking for new challenges and opportunities to learn and grow as a d
 	<img align="center"
 	src="https://github-readme-stats.vercel.app/api?username=Waxdred&show_icons=true" alt="" heigt="40%" width="40%"/>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Waxdred&layout=compact" alt="" height="50%" width="33%" />
 </p>
+<details>
 <summary>📈 Stats</summary>
 <br>
 My Github Stats
