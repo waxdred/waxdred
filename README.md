@@ -12,7 +12,7 @@ My interests include back-end development, artificial intelligence, and machine 
 In my free time, I like to stay updated on the latest developments in technology and explore new programming languages and frameworks. I am a big fan of Go and I love to develop with GoLand, and recently I've been diving into Rust, it's a great programming language and I'm excited to learn more about it.
 I'm always looking for new challenges and opportunities to learn and grow as a developer.
 
-## Projcts
+## Projects
 - https://github.com/waxdred/Term_ChatGPT
 - https://github.com/waxdred/Bot_telegram_bybit_copy_trading/
 	
@@ -27,7 +27,7 @@ I'm always looking for new challenges and opportunities to learn and grow as a d
 
 #Contact
 -Email: [jmilhas@student.42lyon.fr]
-LinkedIn: [[Your LinkedIn Profile Link](https://www.linkedin.com/in/jonathan-milhas-33755418b/)]
+-LinkedIn: [[Your LinkedIn Profile Link](https://www.linkedin.com/in/jonathan-milhas-33755418b/)]
 <p align="center">
 	<img align="center"
 	src="https://github-readme-stats.vercel.app/api?username=Waxdred&show_icons=true" alt="" heigt="40%" width="40%"/>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Waxdred&layout=compact" alt="" height="50%" width="33%" />
