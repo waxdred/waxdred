@@ -27,7 +27,7 @@ I'm always looking for new challenges and opportunities to learn and grow as a d
 <summary>📇 Contact</summary>
 <br>
 Email: jmilhas@student.42lyon.fr<br>
-LinkedIn: [Your LinkedIn Profile Link](https://www.linkedin.com/in/jonathan-milhas-33755418b/)
+<a href="https://www.linkedin.com/in/jonathan-milhas-33755418b">Linkedin</a>
 </details>
 <details>
 <summary>📈 Stats</summary>
