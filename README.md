@@ -30,5 +30,14 @@ I'm always looking for new challenges and opportunities to learn and grow as a d
 	<img align="center"
 	src="https://github-readme-stats.vercel.app/api?username=Waxdred&show_icons=true" alt="" heigt="40%" width="40%"/>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Waxdred&layout=compact" alt="" height="50%" width="33%" />
 </p>
+<summary>📈 Stats</summary>
+<br>
+My Github Stats
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=waxdred&theme=dracula) 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=waxdred&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=waxdred&theme=dracula)
 
 ![](https://komarev.com/ghpvc/?username=waxdred)
+</details>
