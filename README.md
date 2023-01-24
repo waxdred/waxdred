@@ -1,8 +1,6 @@
 
 
 ### Hi there 👋 I'm Jonathan
-<p align="center">
-<img align="center" src="https://badge42.vercel.app/api/v2/cl3lguavc004009mdn56k7atu/stats?cursusId=21&coalitionId=49" alt="" height="40%" width="50%">
 
 ## About me
 Hi there, my name is Jonathan and I'm currently a student at 42 Lyon. I'm in the process of a professional reconversion and I'm excited to be learning new skills in the field of programming. I've been a student at 42 Lyon for 1 year and have been working hard to improve my programming skills.
