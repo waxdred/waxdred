@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Jonathan.+I'm+a+student+at+42+Lyon+;I+am+Passionate+about+creating+bots+and+automating+tasks.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&width=450&lines=Hi%2C+I'm+Jonathan.;I'm+a+student+at+42+Lyon+)](https://git.io/typing-svg)
 
 ## About me
 Hi there, my name is Jonathan and I'm currently a student at 42 Lyon. I'm in the process of a professional reconversion and I'm excited to be learning new skills in the field of programming. I've been a student at 42 Lyon for 1 year and have been working hard to improve my programming skills.
