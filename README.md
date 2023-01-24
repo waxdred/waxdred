@@ -23,12 +23,12 @@ I'm always looking for new challenges and opportunities to learn and grow as a d
 - I am familiar with Linux and have experience in working with Linux servers.
 - I have experience in working with API's and have experience in working with REST API's and GraphQL API's.
 
-<contact>
+<details>
 <summary>📇 Contact</summary>
 <br>
 - Email: [jmilhas@student.42lyon.fr]
 - LinkedIn: [[Your LinkedIn Profile Link](https://www.linkedin.com/in/jonathan-milhas-33755418b/)]
-</contact>
+</details>
 <details>
 <summary>📈 Stats</summary>
 <br>
