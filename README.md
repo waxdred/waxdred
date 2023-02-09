@@ -33,10 +33,10 @@ Email: jmilhas@student.42lyon.fr<br>
 <br>
 My Github Stats
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=waxdred&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=waxdred&theme=nord_dark) 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=waxdred&theme=dracula) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=waxdred&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=waxdred&theme=nord_dark) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=waxdred&theme=nord_dark)
 
 ![](https://komarev.com/ghpvc/?username=waxdred)
 </details>
