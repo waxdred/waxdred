@@ -9,9 +9,10 @@ In my free time, I like to stay updated on the latest developments in technology
 I'm always looking for new challenges and opportunities to learn and grow as a developer.
 
 ## Projects
-- https://github.com/waxdred/Term_ChatGPT
-- https://github.com/waxdred/Bot_telegram_bybit_copy_trading/
-	
+- [chatGPT](https://github.com/waxdred/Term_ChatGPT)
+- [bot telegram copy trading bybit](https://github.com/waxdred/Bot_telegram_bybit_copy_trading)
+- [binance trader bot](https://github.com/waxdred/Binance-Trader-Bot)
+
 ## Skills & Experience
 - I have experience in back-end development using Go and Rust (still learning), and have a deep understanding of the language and its best practices.
 - I have experience in creating bots and automating tasks using Docker. One of my most recent project was a bot for a crypto discord group which allows users to track the prices of different crypto currencies and get alerts when the price of a currency reaches a certain threshold.
