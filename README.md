@@ -36,7 +36,7 @@ My Github Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=waxdred&theme=dracula) 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=waxdred&theme=dracula) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=waxdred&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=waxdred&theme=dracula)
 
 ![](https://komarev.com/ghpvc/?username=waxdred)
 </details>
