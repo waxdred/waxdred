@@ -12,7 +12,7 @@ I'm always looking for new challenges and opportunities to learn and grow as a d
 - [chatGPT](https://github.com/waxdred/Term_ChatGPT)
 - [bot telegram copy trading bybit](https://github.com/waxdred/Bot_telegram_bybit_copy_trading)
 - [binance trader bot](https://github.com/waxdred/Binance-Trader-Bot)
-- [discord webhook](https://github.com/waxdred/Discord_webhook_go)
+- [webhook-go](https://github.com/waxdred/Discord_webhook_go)
 
 ## Skills & Experience
 - I have experience in back-end development using Go and Rust (still learning), and have a deep understanding of the language and its best practices.
