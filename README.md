@@ -10,6 +10,7 @@ I'm always looking for new challenges and opportunities to learn and grow as a d
 
 ## Projects
 - [chatGPT](https://github.com/waxdred/Term_ChatGPT)
+- [GoHotReload](https://github.com/waxdred/GoHotReload)
 - [bot telegram copy trading bybit](https://github.com/waxdred/Bot_telegram_bybit_copy_trading)
 - [binance trader bot](https://github.com/waxdred/Binance-Trader-Bot)
 - [webhook-go](https://github.com/waxdred/webhook_go)
