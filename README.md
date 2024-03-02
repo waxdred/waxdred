@@ -15,6 +15,7 @@ I'm always looking for new challenges and opportunities to learn and grow as a d
 - [binance trader bot](https://github.com/waxdred/Binance-Trader-Bot)
 - [webhook-go](https://github.com/waxdred/webhook_go)
 - [bybit_websocket_go](https://github.com/waxdred/bybit_websocket_go)
+- [GitSpeak](https://github.com/waxdred/GitSpeak)
 
 ## Skills & Experience
 - I have experience in back-end development using Go and Rust (still learning), and have a deep understanding of the language and its best practices.
