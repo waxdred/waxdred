@@ -50,5 +50,5 @@ My Github Stats
 </details>
 
 <p align="center">
-  <img src="assets/githubgif.gif" width="800" />
+  <img src="assets/githubgif.gif" width="600" />
 </p>
