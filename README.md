@@ -11,6 +11,7 @@ I'm always looking for new challenges and opportunities to learn and grow as a d
 
 ## Projects
 
+- [skyland](https://github.com/waxdred/skyland)
 - [chatGPT](https://github.com/waxdred/Term_ChatGPT)
 - [GoHotReload](https://github.com/waxdred/GoHotReload)
 - [bot telegram copy trading bybit](https://github.com/waxdred/Bot_telegram_bybit_copy_trading)
